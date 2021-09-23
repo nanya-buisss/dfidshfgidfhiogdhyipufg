@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+  }
+  #heading{
+    font-size:80px;
+    word-spacing:10px;
+    font-varient:small-caps;
+  }
+  #reasontext{
+    font-size:50px;
+    
+  }
+  #album{
+   border-style:solid;
+    border-colour:black;
+    padding:5px;
+    width:450px;
+  }
